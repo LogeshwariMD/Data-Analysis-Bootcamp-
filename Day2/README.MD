@@ -63,7 +63,7 @@ Recreate Hans Rosling’s famous **Bubble Chart** to visualize global developmen
 ## How to Run the Project
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/data-visualization-project.git
+   git clone https:https://github.com/LogeshwariMD/Data-Analysis-Bootcamp-/edit/main/Day2/
    ```
 2. Navigate to the project directory:
    ```bash
